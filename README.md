@@ -1,6 +1,6 @@
 # Hi there, I'm Yash J Doctor 👋
 
-🎓 **Student | Learning Software Testing**  
+🎓 **Student at Uka Tarsadia University | Learning Software Testing**  
 🔍 Enthusiastic about software testing, automation, and quality assurance  
 🛠️ Currently exploring: **Selenium** & **Jira**
 
