@@ -1,16 +1,32 @@
-## Hi there 👋
+# Hi there, I'm Yash J Doctor 👋
 
-<!--
-**Yashjd9781/Yashjd9781** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 **Student | Learning Software Testing**  
+🔍 Enthusiastic about software testing, automation, and quality assurance  
+🛠️ Currently exploring: **Selenium** & **Jira**
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 👨‍💻 About Me
+
+- I am a student currently learning software testing and automation.
+- Always eager to explore new tools and best practices in QA.
+- I enjoy solving puzzle games and reading psychological facts in my free time.
+
+## 🧰 Skills & Tools
+
+- **Learning:** Selenium (automation), Jira (project management)
+- **Analytical Thinking:** Puzzle-solving mindset
+
+## 📚 Interests
+
+- Software quality assurance & automation
+- Puzzle games & brain teasers
+- Psychological facts & human behavior
+
+## 🌐 Connect with me
+
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/yash-j-doctor)](https://www.linkedin.com/in/yash-j-doctor)
+
+---
+
+*Striving for quality, growth, and continuous learning.*
