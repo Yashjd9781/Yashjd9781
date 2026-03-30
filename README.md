@@ -25,7 +25,9 @@
 
 ## 🌐 Connect with me
 
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/yash-doctor)](www.linkedin.com/in/yash-doctor)
+## 🌐 Connect with me
+
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/yash-doctor)
 
 ---
 
